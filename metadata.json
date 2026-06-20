@@ -1,0 +1,6 @@
+{
+  "name": "Forex Video Academy",
+  "description": "An interactive animated Forex video classroom and trading simulator featuring AI tutoring, real-time chart synchronization, quiz panels, and custom lesson generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
